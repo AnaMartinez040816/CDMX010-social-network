@@ -54,7 +54,7 @@ Posteriormente, con los feedbacks recibidos elaboramos la vista mobile first:
 * Implementamos la modularización del codigo para separar por responsabilidades.
 * Implementamos el uso de SPA para dar pronta respuesta a las usuarias.
 
-## 4. Historias
+## 4. Historias   
 
 Se desarrollaron las siguientes historias de usuario:
 
